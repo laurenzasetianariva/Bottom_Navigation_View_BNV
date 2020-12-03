@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="whiteColor">#ffffff</color>
+    <color name="pinkColor">#ffc2da</color>
+    <color name="blackColor">#000000</color>
+    <color name="blueSkyColor">#48c1f9</color>
+    <color name="hatsuneColor">#43b4ba</color>
+    <color name="blueDarkColor">#0c0599</color>
+
+
+</resources>

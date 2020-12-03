@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/favorite"
+        android:title="Chara"
+        android:icon="@drawable/palaitachi"
+        />
+
+    <item
+        android:id="@+id/home"
+        android:title="Naruto"
+        android:icon="@drawable/palaneji"
+        />
+
+    <item
+        android:id="@+id/profile"
+        android:title="Couple"
+        android:icon="@drawable/palatenten"
+        />
+
+</menu>

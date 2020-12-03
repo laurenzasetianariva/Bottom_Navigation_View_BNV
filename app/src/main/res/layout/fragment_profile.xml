@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileFragment">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="303dp"
+        android:layout_height="225dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/nejiten" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        android:gravity="top"
+        android:textAlignment="center"
+        android:text="Couple terbaikk!"
+        android:textColor="@color/blackColor"
+        android:textSize="38sp" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="120dp"
+        android:gravity="top"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:text="NEJI  TENTEN"
+        android:textColor="@color/blackColor"
+        android:textSize="25dp" />
+
+</RelativeLayout>
